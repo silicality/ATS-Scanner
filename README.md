@@ -13,9 +13,6 @@ The original project focuses on extracting structured information from resumes u
 
 🙏 Full credit for the base resume parsing logic goes to the original author and contributors.
 
-🎯 Purpose of This Fork
-
-This fork extends the original project with a strong focus on:
 
 Community contributions
 
